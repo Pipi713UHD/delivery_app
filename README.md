@@ -38,5 +38,4 @@ Aplicación móvil de delivery desarrollada con Flutter para el frontend y PHP/M
 Desarrollar una plataforma de entrega de comida que permita conectar clientes, restaurantes y repartidores en un mismo sistema, facilitando la gestión de pedidos y el seguimiento de entregas mediante geolocalización.
 
 ## Autores
-Cristian Suazo
-Keven Corea
+Cristian Suazo y Keven Corea
