@@ -18,8 +18,6 @@ Aplicación móvil de delivery desarrollada con Flutter para el frontend y PHP/M
 - API REST desarrollada en PHP.
 - Base de datos MySQL relacional.
 
-## Tecnologías utilizadas
-
 ### Frontend
 - Flutter
 - Dart
